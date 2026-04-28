@@ -3,6 +3,9 @@ body {
     text-align: center;
     background: linear-gradient(#FFB5DC, #FF219C);
     color: White;
+    margin: 0;
+    padding: 0;
+    height: 100%;
 }
 
 #game-area {
