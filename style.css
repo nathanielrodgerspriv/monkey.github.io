@@ -1,8 +1,8 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Courier, monospace;
     text-align: center;
     background: #111;
-    color: pink;
+    color: #FF4DB2;
 }
 
 #game-area {
